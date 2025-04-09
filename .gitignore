@@ -1,0 +1,26 @@
+# Ignore Python cache
+_pycache_/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Mac system files
+.DS_Store
+
+# Data files (optional - if too large or private)
+*.csv
+*.xlsx
+*.zip
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
